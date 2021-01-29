@@ -3,3 +3,5 @@
 ################################################################################
 
 *.suo
+/Serial Oscilloscope/obj/x86/Debug
+/Serial Oscilloscope/bin/Debug
